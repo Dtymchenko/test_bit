@@ -1,0 +1,59 @@
+{
+  "dbGetProducts": [
+    {
+      "id": 1,
+      "title": "Blended Sienna",
+      "price": "$$$",
+      "short-descr": "COREtec Premium",
+      "full-descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "available": 2650,
+      "liked": false,
+      "checked": false,
+      "img": "/img/product.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Blended Sienna",
+      "price": "$$$",
+      "short-descr": "COREtec Premium",
+      "full-descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "available": 2650,
+      "liked": false,
+      "checked": false,
+      "img": "/img/product.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blended Sienna",
+      "price": "$$$",
+      "short-descr": "COREtec Premium",
+      "full-descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "available": 2650,
+      "liked": false,
+      "checked": false,
+      "img": "/img/product.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Blended Sienna",
+      "price": "$$$",
+      "short-descr": "COREtec Premium",
+      "full-descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "available": 0,
+      "liked": false,
+      "checked": false,
+      "img": "/img/product.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Blended Sienna",
+      "price": "$$$",
+      "short-descr": "COREtec Premium",
+      "full-descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "available": 2650,
+      "liked": false,
+      "checked": false,
+      "img": "/img/product.jpg"
+    }
+  ]
+}

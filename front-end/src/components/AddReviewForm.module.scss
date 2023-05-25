@@ -1,0 +1,61 @@
+.comment {
+    position: relative;
+    width: 100%;
+    min-height: 100px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    &::placeholder {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+}
+
+.middle {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+
+.name, .email, .phone {
+    min-height: 50px;
+    padding: 10px;
+    flex: 1;
+    border: 1px solid grey;
+}
+
+.phone {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.text {
+    margin-left: 10px;
+    color: grey;
+}
+
+.button {
+    width: 250px;
+    background-color: #446671;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+@media (min-width: 320px) and (max-width: 766px) {
+    .middle {
+        display: block;
+    }
+    .name, .email {
+        width: 100%;
+    }
+    .name {
+        margin-bottom: 10px;
+    }
+    .button {
+        width: 100%;
+    }
+}
+
